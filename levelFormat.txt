@@ -1,0 +1,20 @@
+286 450 //Player spawn X coordinate
+361 361 //Player spawn Y coordinate 
+100 700 //Ball x coordinate(s)
+60 60 //Ball y coordinates(s)
+2 2 //Ball size(s)
+-1 //Ball direction(s)
+Platform x coordinate(s)
+Platform y coordinate(s)
+Platform width
+Platform height
+Platform breakable(s)   <true, false>
+portal x coordinate(s)
+portal y coordinate(s)
+destination portal index
+monster x
+monster y
+
+
+
+*******if there are zero platforms or zero ladders, leave a single space on that line******************
